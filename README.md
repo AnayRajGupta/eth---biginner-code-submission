@@ -1,4 +1,4 @@
-# Project  mudraBhandar
+# Token  mudraBhandar
 
 This Solidity program demonstrates a simple use of the language to create our own personal token using contracts in the Solidity programming language. The purpose of this program is to clarify the concepts for those who are new to Solidity and want to get a feel for how it works.
 
